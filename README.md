@@ -1,5 +1,5 @@
-# fis-ds-starter
-A starter template repo for managing Flatiron School DS NYC course iterations as taught by Kash. 
+# DS-NTL-062424
+The centralized course repo for data science content delivery for the DS-NTL-062424 cohort, taught by Kash. 
 
 ### Written Instructions to Connect to This Repository:
 
@@ -10,9 +10,9 @@ A starter template repo for managing Flatiron School DS NYC course iterations as
 git clone https://github.com/[yourusername]/[repo-name].git
 ```
 
-3. Add the `/flatiron-school/` version as the `upstream` (to pull future changes)
+3. Add the `/djprofessorkash/` version as the `upstream` (to pull future changes)
 ```
-git remote add upstream https://github.com/flatiron-school/[repo-name].git
+git remote add upstream https://github.com/djprofessorkash/[repo-name].git
 ```
 
 4. You can make changes to the notebooks now! Remember to push your changes to your forked version of the repo (to put your local changes up online):
